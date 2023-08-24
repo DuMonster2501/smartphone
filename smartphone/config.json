@@ -80,7 +80,7 @@
             "name": "Taxi",
             "number": "100",
             "description": "Efetue um chamado aos Taxistas",
-            "permission": "Taxi2"
+            "permission": "Taxi"
         }
     ],
     "base": "creative_rework"
