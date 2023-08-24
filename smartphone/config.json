@@ -1,0 +1,87 @@
+{
+    "token": "",
+    "client": {
+        "bankType": "fleeca",
+        "uploadServer": "SUA WEBHOOK",
+        "allowUnsafeURL": true,
+        "videoServer": "SEU IP",
+        "case": "s9",
+        "isAndroid": false,
+        "useGameClock": false,
+        "phone_template": "XXX-XXX",
+        "backgroundURL": "https://cdn.discordapp.com/attachments/978736554879115317/1124467924208451626/wallpaper.jpg",
+        "apps": {
+            "calculator": "https://cdn.discordapp.com/attachments/978736554879115317/1125209414882820217/calculator.png",
+            "notes": "https://cdn.discordapp.com/attachments/978736554879115317/1125209439364984903/notes.png",
+            "settings": "https://cdn.discordapp.com/attachments/978736554879115317/1125209513197305957/settings.png",
+            "contacts": "https://cdn.discordapp.com/attachments/978736554879115317/978778226493100072/phone.png",
+            "sms": "https://cdn.discordapp.com/attachments/978736554879115317/1125209513436385300/sms.png",
+            "gallery": "https://cdn.discordapp.com/attachments/978736554879115317/1125209414626984098/gallery.png",
+            "call": "https://cdn.discordapp.com/attachments/978736554879115317/1125209482138501261/phone.png",
+            "facetime": "https://cdn.discordapp.com/attachments/978736554879115317/1125209413427408957/facetime.webp",
+            "bank": "https://cdn.discordapp.com/attachments/978736554879115317/1125209414098485308/fleeca.png",
+            "instagram": {
+                "name": "Instacom",
+                "icon": "https://cdn.discordapp.com/attachments/978736554879115317/1125209440304504903/instagram.png"
+            },
+            "minesweeper": {
+                "name": "Minadin",
+                "icon": "https://cdn.discordapp.com/attachments/978736554879115317/1125209439104933969/minado.png"
+            },
+            "truco": "https://cdn.discordapp.com/attachments/978736554879115317/1125209514698883122/truco.png",
+            "yellowpages": {
+                "name": "Yellow P.",
+                "icon": "https://cdn.discordapp.com/attachments/978736554879115317/1125209522810663012/yellowpages.png"
+            },
+            "tinder": {
+                "name": "Cupidlov",
+                "icon": "https://cdn.discordapp.com/attachments/978736554879115317/1125209514094887065/tinder.png"
+            },
+            "whatsapp": {
+                "name": "ZapZop",
+                "icon": "https://cdn.discordapp.com/attachments/978736554879115317/1125209522567401552/whatsapp.png"
+            },
+            "tor": {
+                "name": "Deep Web",
+                "icon": "https://cdn.discordapp.com/attachments/978736554879115317/1125209514384298024/tor.png"
+            }
+        },
+        "disabledApps": [ "paypal", "casino", "olx", "twitter" ]
+    },
+    "call_mode": "pma-voice",
+    "webhookURL": "SUA WEBHOOK",
+    "instagram_verify": "Verify",
+    "instagram_accounts": {
+        "*": 1,
+        "vip.permissao": 2
+    },
+    "moderator": "Moderador",
+    "item": "cellphone",
+    "services": [
+        {
+            "name": "Policia",
+            "number": "190",
+            "description": "Efetue um chamado aos Policiais",
+            "permission": "Police"
+        },
+        {
+            "name": "Paramédico",
+            "number": "192",
+            "description": "Efetue um chamado aos Paramédicos",
+            "permission": "Paramedic"
+        },
+        {
+            "name": "Mecânico",
+            "number": "102",
+            "description": "Efetue um chamado aos Mecânicos",
+            "permission": "Mechanic"
+        },
+        {
+            "name": "Taxi",
+            "number": "100",
+            "description": "Efetue um chamado aos Taxistas",
+            "permission": "Taxi2"
+        }
+    ],
+    "base": "creative_rework"
+}
